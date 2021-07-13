@@ -15,6 +15,7 @@ Project is created with:
 
 #Project is deployed on Heroku: Cloud Application Platform
 	* Here is the quick link for demo: https://vica-videochat-app.herokuapp.com
+	* For best User Experience it is recommended to use application on *Microsoft Edge*
 #SweetAlert is used as beautiful, responsive, customizable and accessible (WAI-ARIA) replacement for JavaScript's popup boxes
 	
 ## Setup
